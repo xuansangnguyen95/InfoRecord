@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on Chrome"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.238">
+  <properties />
+  
+  
+            <testcase name="TC01_LoginWithEmptyUsername" time="1.266" classname="inforecord.Login" />
+                <testcase name="TC02_LoginWithEmptyPassword" time="1.019" classname="inforecord.Login" />
+                <testcase name="TC03_LoginWithCorrectInformation" time="2.953" classname="inforecord.Login" />
+      
+</testsuite>

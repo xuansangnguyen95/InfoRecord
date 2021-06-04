@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="inforecord.Login" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-06-04T09:35:19" hostname="D1005" time="5.24">
+  <properties/>
+  <testcase name="TC01_LoginWithEmptyUsername" classname="inforecord.Login" time="1.266"/>
+  <testcase name="TC02_LoginWithEmptyPassword" classname="inforecord.Login" time="1.019"/>
+  <testcase name="TC03_LoginWithCorrectInformation" classname="inforecord.Login" time="2.953"/>
+  <system-out><![CDATA[[INFO ] [2021-06-04 16:35:19,356] Login With Empty Username - Step 01: input to password with value: thatismylove
+[INFO ] [2021-06-04 16:35:20,075] Login With Empty Username - Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 16:35:20,543] Login With Empty Username - Step 03: verify error line
+[INFO ] [2021-06-04 16:35:20,621]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:35:20,623] Login With Empty Password - Step 01: input to username with value: sang.nguyen02
+[INFO ] [2021-06-04 16:35:21,288] Login With Empty Password - Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 16:35:21,588] Login With Empty Password - Step 03: verify error line
+[INFO ] [2021-06-04 16:35:21,641]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:35:21,642] Login With Correct Information - Step 01: input to username with value: sang.nguyen02
+[INFO ] [2021-06-04 16:35:22,297] Login With Correct Information - Step 02: input to username with value: thatismylove
+[INFO ] [2021-06-04 16:35:22,957] Login With Correct Information - Step 03: click to button 'Log in'
+[INFO ] [2021-06-04 16:35:24,513] Login With Correct Information - Step 04: verify name of user
+[INFO ] [2021-06-04 16:35:24,595]  -------------------------- PASSED -------------------------- 
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 91.0.4472.19 (1bf021f248676a0b2ab3ee0561d83a59e424c23e-refs/branch-heads/4472@{#288}) on port 16263
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1622799317.959][WARNING]: Deprecated chrome option is ignored: useAutomationExtension
+[1622799317.959][WARNING]: Deprecated chrome option is ignored: useAutomationExtension
+Jun 04, 2021 4:35:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

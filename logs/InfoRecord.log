@@ -1,0 +1,133 @@
+[INFO ] [2021-06-04 15:45:14,676] Login With Empty Username Step 01: input to username with value: sang.nguyen02
+[INFO ] [2021-06-04 15:45:15,409] Login With Empty Username Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 15:45:15,904] Login With Empty Username Step 03: verify error line
+[INFO ] [2021-06-04 15:45:15,988]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 15:45:15,991] Login With Empty Username Step 01: input to username with value: sang.nguyen02
+[INFO ] [2021-06-04 15:45:16,651] Login With Empty Username Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 15:45:17,071] Login With Empty Username Step 03: verify error line
+[INFO ] [2021-06-04 15:45:17,127]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 15:45:17,128] Login With Empty Username Step 01: input to password with value: thatismylove
+[INFO ] [2021-06-04 15:45:17,782] Login With Empty Username Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 15:45:18,179] Login With Empty Username Step 03: verify error line
+[INFO ] [2021-06-04 15:45:18,245]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 15:45:18,245] OS name = windows 10
+[INFO ] [2021-06-04 15:45:20,903] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-04 16:03:51,549] Login With Empty Username - Step 01: input to password with value: thatismylove
+[INFO ] [2021-06-04 16:03:52,263] Login With Empty Username - Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 16:03:52,756] Login With Empty Username - Step 03: verify error line
+[INFO ] [2021-06-04 16:03:52,834]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:03:52,836] Login With Empty Password - Step 01: input to username with value: sang.nguyen02
+[INFO ] [2021-06-04 16:03:53,514] Login With Empty Password - Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 16:03:53,833] Login With Empty Password - Step 03: verify error line
+[INFO ] [2021-06-04 16:03:53,891]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:03:53,892] Login With Correct Information - Step 01: input to username with value: sang.nguyen02
+[INFO ] [2021-06-04 16:03:54,557] Login With Correct Information - Step 02: input to username with value: thatismylove
+[INFO ] [2021-06-04 16:03:55,230] Login With Empty Username - Step 03: click to button 'Log in'
+[INFO ] [2021-06-04 16:03:57,414] Login With Empty Username - Step 04: verify name of user
+[INFO ] [2021-06-04 16:03:57,421] OS name = windows 10
+[INFO ] [2021-06-04 16:03:58,257] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-04 16:04:44,731] Login With Empty Username - Step 01: input to password with value: thatismylove
+[INFO ] [2021-06-04 16:04:45,458] Login With Empty Username - Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 16:04:45,952] Login With Empty Username - Step 03: verify error line
+[INFO ] [2021-06-04 16:04:46,042]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:04:46,044] Login With Empty Password - Step 01: input to username with value: sang.nguyen02
+[INFO ] [2021-06-04 16:04:46,725] Login With Empty Password - Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 16:04:47,036] Login With Empty Password - Step 03: verify error line
+[INFO ] [2021-06-04 16:04:47,091]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:04:47,092] Login With Correct Information - Step 01: input to username with value: sang.nguyen02
+[INFO ] [2021-06-04 16:04:47,763] Login With Correct Information - Step 02: input to username with value: thatismylove
+[INFO ] [2021-06-04 16:04:48,432] Login With Empty Username - Step 03: click to button 'Log in'
+[INFO ] [2021-06-04 16:04:49,962] Login With Empty Username - Step 04: verify name of user
+[INFO ] [2021-06-04 16:05:21,202] OS name = windows 10
+[INFO ] [2021-06-04 16:05:22,026] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-04 16:06:23,485] Login With Empty Username - Step 01: input to password with value: thatismylove
+[INFO ] [2021-06-04 16:06:24,210] Login With Empty Username - Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 16:06:24,687] Login With Empty Username - Step 03: verify error line
+[INFO ] [2021-06-04 16:06:24,772]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:06:24,774] Login With Empty Password - Step 01: input to username with value: sang.nguyen02
+[INFO ] [2021-06-04 16:06:25,445] Login With Empty Password - Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 16:06:25,786] Login With Empty Password - Step 03: verify error line
+[INFO ] [2021-06-04 16:06:25,848]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:06:25,849] Login With Correct Information - Step 01: input to username with value: sang.nguyen02
+[INFO ] [2021-06-04 16:06:26,504] Login With Correct Information - Step 02: input to username with value: thatismylove
+[INFO ] [2021-06-04 16:06:27,170] Login With Empty Username - Step 03: click to button 'Log in'
+[INFO ] [2021-06-04 16:06:28,903] Login With Empty Username - Step 04: verify name of user
+[INFO ] [2021-06-04 16:06:28,976]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:15:56,134] Login With Empty Username - Step 01: input to password with value: thatismylove
+[INFO ] [2021-06-04 16:15:56,851] Login With Empty Username - Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 16:15:57,458] Login With Empty Username - Step 03: verify error line
+[INFO ] [2021-06-04 16:15:57,536]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:15:57,540] Login With Empty Password - Step 01: input to username with value: sang.nguyen02
+[INFO ] [2021-06-04 16:15:58,213] Login With Empty Password - Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 16:15:58,523] Login With Empty Password - Step 03: verify error line
+[INFO ] [2021-06-04 16:15:58,591]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:15:58,592] Login With Correct Information - Step 01: input to username with value: sang.nguyen02
+[INFO ] [2021-06-04 16:15:59,246] Login With Correct Information - Step 02: input to username with value: thatismylove
+[INFO ] [2021-06-04 16:15:59,923] Login With Correct Information - Step 03: click to button 'Log in'
+[INFO ] [2021-06-04 16:16:02,691] Login With Correct Information - Step 04: verify name of user
+[INFO ] [2021-06-04 16:16:02,770]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:16:59,702] Login With Empty Username - Step 01: input to password with value: thatismylove
+[INFO ] [2021-06-04 16:17:00,427] Login With Empty Username - Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 16:17:00,996] Login With Empty Username - Step 03: verify error line
+[INFO ] [2021-06-04 16:17:01,079]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:17:01,082] Login With Empty Password - Step 01: input to username with value: sang.nguyen02
+[INFO ] [2021-06-04 16:17:01,757] Login With Empty Password - Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 16:17:02,093] Login With Empty Password - Step 03: verify error line
+[INFO ] [2021-06-04 16:17:02,157]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:17:02,158] Login With Correct Information - Step 01: input to username with value: sang.nguyen02
+[INFO ] [2021-06-04 16:17:02,812] Login With Correct Information - Step 02: input to username with value: thatismylove
+[INFO ] [2021-06-04 16:17:03,490] Login With Correct Information - Step 03: click to button 'Log in'
+[INFO ] [2021-06-04 16:17:05,208] Login With Correct Information - Step 04: verify name of user
+[INFO ] [2021-06-04 16:17:05,284]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:21:40,757] Login With Empty Username - Step 01: input to password with value: thatismylove
+[INFO ] [2021-06-04 16:21:41,484] Login With Empty Username - Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 16:21:41,949] Login With Empty Username - Step 03: verify error line
+[INFO ] [2021-06-04 16:21:42,035]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:21:42,037] Login With Empty Password - Step 01: input to username with value: sang.nguyen02
+[INFO ] [2021-06-04 16:21:42,711] Login With Empty Password - Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 16:21:43,020] Login With Empty Password - Step 03: verify error line
+[INFO ] [2021-06-04 16:21:43,089]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:21:43,090] Login With Correct Information - Step 01: input to username with value: sang.nguyen02
+[INFO ] [2021-06-04 16:21:43,766] Login With Correct Information - Step 02: input to username with value: thatismylove
+[INFO ] [2021-06-04 16:21:44,434] Login With Correct Information - Step 03: click to button 'Log in'
+[INFO ] [2021-06-04 16:21:46,234] Login With Correct Information - Step 04: verify name of user
+[INFO ] [2021-06-04 16:21:46,304]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:30:03,319] Login With Empty Username - Step 01: input to password with value: thatismylove
+[INFO ] [2021-06-04 16:30:04,074] Login With Empty Username - Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 16:30:04,597] Login With Empty Username - Step 03: verify error line
+[INFO ] [2021-06-04 16:30:04,680]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:30:04,682] Login With Empty Password - Step 01: input to username with value: sang.nguyen02
+[INFO ] [2021-06-04 16:30:05,363] Login With Empty Password - Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 16:30:05,664] Login With Empty Password - Step 03: verify error line
+[INFO ] [2021-06-04 16:30:05,728]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:30:05,729] Login With Correct Information - Step 01: input to username with value: sang.nguyen02
+[INFO ] [2021-06-04 16:30:06,393] Login With Correct Information - Step 02: input to username with value: thatismylove
+[INFO ] [2021-06-04 16:30:07,068] Login With Correct Information - Step 03: click to button 'Log in'
+[INFO ] [2021-06-04 16:30:09,007] Login With Correct Information - Step 04: verify name of user
+[INFO ] [2021-06-04 16:30:09,101]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:32:32,726] Login With Empty Username - Step 01: input to password with value: thatismylove
+[INFO ] [2021-06-04 16:32:33,452] Login With Empty Username - Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 16:32:33,948] Login With Empty Username - Step 03: verify error line
+[INFO ] [2021-06-04 16:32:34,023]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:32:34,026] Login With Empty Password - Step 01: input to username with value: sang.nguyen02
+[INFO ] [2021-06-04 16:32:34,699] Login With Empty Password - Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 16:32:34,996] Login With Empty Password - Step 03: verify error line
+[INFO ] [2021-06-04 16:32:35,063]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:32:35,064] Login With Correct Information - Step 01: input to username with value: sang.nguyen02
+[INFO ] [2021-06-04 16:32:35,723] Login With Correct Information - Step 02: input to username with value: thatismylove
+[INFO ] [2021-06-04 16:32:36,386] Login With Correct Information - Step 03: click to button 'Log in'
+[INFO ] [2021-06-04 16:32:38,028] Login With Correct Information - Step 04: verify name of user
+[INFO ] [2021-06-04 16:32:38,105]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:35:19,356] Login With Empty Username - Step 01: input to password with value: thatismylove
+[INFO ] [2021-06-04 16:35:20,075] Login With Empty Username - Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 16:35:20,543] Login With Empty Username - Step 03: verify error line
+[INFO ] [2021-06-04 16:35:20,621]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:35:20,623] Login With Empty Password - Step 01: input to username with value: sang.nguyen02
+[INFO ] [2021-06-04 16:35:21,288] Login With Empty Password - Step 02: click to button 'Log in'
+[INFO ] [2021-06-04 16:35:21,588] Login With Empty Password - Step 03: verify error line
+[INFO ] [2021-06-04 16:35:21,641]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-06-04 16:35:21,642] Login With Correct Information - Step 01: input to username with value: sang.nguyen02
+[INFO ] [2021-06-04 16:35:22,297] Login With Correct Information - Step 02: input to username with value: thatismylove
+[INFO ] [2021-06-04 16:35:22,957] Login With Correct Information - Step 03: click to button 'Log in'
+[INFO ] [2021-06-04 16:35:24,513] Login With Correct Information - Step 04: verify name of user
+[INFO ] [2021-06-04 16:35:24,595]  -------------------------- PASSED -------------------------- 

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="InfoRecord" parallel="false">
+
+	<listeners>
+		<listener class-name="commons.MethodListener" />
+<!--		<listener class-name="reportConfig.ExtentReportListenerV2" />-->
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+
+	<test name="Run on Chrome">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="inforecord.Login" />
+		</classes>
+	</test>   
+
+
+</suite> <!-- Suite -->
